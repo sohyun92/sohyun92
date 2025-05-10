@@ -16,9 +16,14 @@
 <br/>
 
 <div align="center">
-  Learning 📚 🌿<br/><br/>
+  Study 📚 🌿<br/><br/>
   <img src="https://img.shields.io/badge/JUnit-25A162?logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?logoColor=white"/><br/>
+  
+<h4 align="center">🚀 Deployment & CI/CD</h4>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+
 
 
 </div>
