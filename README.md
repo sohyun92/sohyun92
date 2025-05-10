@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?logo=spring&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
+
 </div>
 <br/>
 
@@ -16,7 +17,6 @@
   <img src="https://img.shields.io/badge/JUnit-25A162?logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
 
 </div>
 <br/>
