@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=sohyun's%20GitHub&fontSize=42" />
 
 
-<h4 align="center">🧸🧸</h4>
+<h4 align="center">🧸Tech Stack🧸</h4>
 
 <div align="center">
+  Primary Tech Stack 🌿<br/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?=logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>
@@ -14,8 +15,10 @@
 <br/>
 
 <div align="center">
-  🌿Study🌿<br/>
+  Learning🌿<br/>
   <img src="https://img.shields.io/badge/JUnit-25A162?logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?logoColor=white"/>
+
 
 </div>
 
