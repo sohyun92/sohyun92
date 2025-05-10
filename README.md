@@ -11,9 +11,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
 </div>
+<br/>
 
 <div align="center">
-  🧑‍💻 Java & Spring ☕🌿<br/>
+  🌿Study🌿<br/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" width="70"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" width="70"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" width="70"/>
