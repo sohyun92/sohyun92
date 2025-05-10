@@ -12,7 +12,14 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
 </div>
 
-<h4 align="center">Study</h4>
+<div align="center">
+  🧑‍💻 Java & Spring ☕🌿<br/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" width="70"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" width="70"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" width="70"/>
+</div>
+
+<br/>
 
 
 
