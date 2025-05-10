@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?logo=spring&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?logo=vue.js&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
 
 </div>
