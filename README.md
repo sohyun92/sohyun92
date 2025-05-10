@@ -23,6 +23,11 @@
 </div>
 <br/>
 
+<h4 align="center"> Certifications 🌱</h4>
+<div align="center">
+  <a href="https://www.credly.com/badges/2f2a5292-b4bf-4895-8213-69431cc2ad35/public_ur" target="_blank">  
+</div>
+
 <!--
 **sohyun92/sohyun92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2f2a5292-b4bf-4895-8213-69431cc2ad35/public_url)
