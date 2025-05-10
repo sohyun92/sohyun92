@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=sohyun's%20GitHub&fontSize=42" />
 
-
-<h4 align="center">🧸Tech Stack🧸</h4>
-<br/><br/>
-
 <div align="center">
   Primary Tech Stack ✨<br/><br/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
