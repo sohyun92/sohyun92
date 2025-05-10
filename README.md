@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
 </div>
 
+<h4 align="center">Study</h4>
 
 
 
