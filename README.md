@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/JUnit-25A162?logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
-
 </div>
 <br/>
 
