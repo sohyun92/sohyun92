@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=sohyun's%20GitHub&fontSize=42" />
 
 
-<h4 align="center">🧸Tech Stack🧸</h4><br/>
-<hr style="width: 60%; margin: auto;"/>
+<h4 align="center">🧸Tech Stack🧸</h4>
+<hr style="width: 30%; margin: auto;"/>
 <br/>
 
 <div align="center">
