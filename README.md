@@ -1,12 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=sohyun's%20GitHub&fontSize=42" />
 
 
-<h4 align="center" style="font-size: 14px;">🧸 <small>𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀</small> 🧸</h4>
+<h4 align="center" style="font-size: 14px;">🧸 <small>𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀 (기술 스택)</small></h4>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" width="70"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" width="70"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" width="70"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" width="70"/>
 </div>
 
 
