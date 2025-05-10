@@ -2,8 +2,9 @@
 
 
 <h4 align="center">🧸Tech Stack🧸</h4>
-<hr style="width: 30%; margin: auto;"/>
-<br/>
+<hr width="60%"/>
+
+<br/><br/>
 
 <div align="center">
   Primary Tech Stack 🌿<br/><br/>
